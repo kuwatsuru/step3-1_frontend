@@ -1,3 +1,6 @@
+'use client'
+import { useSearchParams } from 'next/navigation'
+
 
 import { Button } from "@/components/ui/button";
 import { MailOpen } from "lucide-react";
